@@ -118,7 +118,7 @@ individual models in terms of accuracy.
 ## 📸 Output Screenshot
 
 ### Model Accuracy Comparison
-![Accuracy Bar Chart](accuracy_comparison.png)
+![Accuracy Bar Chart](images/accuracy_comparison.png)
 
 ## 👤 Author
 👤 **Thangarajpandian**  
