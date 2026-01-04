@@ -115,6 +115,10 @@ individual models in terms of accuracy.
 - `EmployeePerformance.ipynb` – Jupyter Notebook implementation
 
 ---
+## 📸 Output Screenshot
+
+### Model Accuracy Comparison
+![Accuracy Bar Chart](accuracy_comparison.png)
 
 ## 👤 Author
 👤 **Thangarajpandian**  
